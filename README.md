@@ -4,6 +4,10 @@
 
 ### `git clone https://github.com/eldesernauta/ddb_frontend_prueba.git`
 
+## Ingresa al directorio recién descargado:
+
+### `cd ddb_frontend_prueba`
+
 ## Asegúrate de instalar las librerías necesarias:
 
 ### `npm install`
