@@ -8,8 +8,8 @@
 
 ### `npm install`
 
-## Ahora puedes correr la landing page:
+## Corre la landing page:
 
 ### `npm start`
 
-Por último, ve a [http://localhost:3000](http://localhost:3000) para ver la landing page.
+No olvides ir a [http://localhost:3000](http://localhost:3000) para ver la landing page.
