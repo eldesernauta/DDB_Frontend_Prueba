@@ -4,11 +4,11 @@
 
 ### `git clone https://github.com/eldesernauta/ddb_frontend_prueba.git`
 
-Asegúrate de instalar las librerías necesarias:
+## Asegúrate de instalar las librerías necesarias:
 
 ### `npm install`
 
-Ahora puedes correr la landing page:
+## Ahora puedes correr la landing page:
 
 ### `npm start`
 
